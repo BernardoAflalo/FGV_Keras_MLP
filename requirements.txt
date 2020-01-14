@@ -3,5 +3,4 @@ keras
 pandas
 numpy
 seaborn
-mnist_loader
 ipywidgets
